@@ -5,6 +5,8 @@
 ### Overview
 This project is an implementation of a **Nonogram puzzle solver** written in OCaml (Objective Caml). A nonogram, also known as a *picross*, *griddlers*, or *pic-a-pix*, is a logic puzzle that combines elements of crosswords and mathematics.
 
+<img width="339" height="316" alt="Screenshot from 2026-03-03 23-21-26" src="https://github.com/user-attachments/assets/070650ff-5866-4d69-a9f1-0a26b43fd947" />
+
 ### What is a Nonogram?
 A nonogram is a puzzle game where you fill in cells in a grid to reveal a hidden picture. You are given:
 - **Row clues**: Numbers indicating consecutive filled cells in each row
